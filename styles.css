@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+label:nth-of-type(even)
+{
+	color:red;
+}
